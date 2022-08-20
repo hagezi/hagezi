@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><img src="https://user-images.githubusercontent.com/104343908/185764673-a677e54f-e049-4c9b-9d98-d8add60ce725.png"></p>
 
 <!--
 **hagezi/hagezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
