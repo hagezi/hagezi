@@ -1,4 +1,4 @@
-<p align="center"><img width="35%" alt="HaGeZi DNS Blocklists" src="https://github.com/user-attachments/assets/1fb8b23c-2c45-43e2-8266-84c897ac5b3b" />
+<p align="center"><img width="25%" alt="HaGeZi DNS Blocklists" src="https://github.com/user-attachments/assets/1fb8b23c-2c45-43e2-8266-84c897ac5b3b" />
 
 [![Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF.svg?style=for-the-badge&logo=Proton-Mail&logoColor=white)](mailto:hagezi@protonmail.com)
 [![Signal](https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/WlBfKuiT1S1GAGwDRpvIJErjM-C3IcjQUQ9HWLzeJKGKTfwlOGhEe7GQRSx05uX0)
