@@ -1,5 +1,14 @@
 <p align="center"><img width="35%" alt="HaGeZi DNS Blocklists" src="https://github.com/user-attachments/assets/1fb8b23c-2c45-43e2-8266-84c897ac5b3b" />          <img src="https://user-images.githubusercontent.com/104343908/185764673-a677e54f-e049-4c9b-9d98-d8add60ce725.png"></p>
 
+[![Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF.svg?style=for-the-badge&logo=Proton-Mail&logoColor=white)](mailto:hagezi@protonmail.com)
+[![Signal](https://img.shields.io/badge/Signal-3B45FD.svg?style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/WlBfKuiT1S1GAGwDRpvIJErjM-C3IcjQUQ9HWLzeJKGKTfwlOGhEe7GQRSx05uX0)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/hagezi)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/hagezi)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white)](https://social.tchncs.de/@hagezi)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/hagezi.bsky.social)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/hagezi)
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hagezi)
+
 <!--
 **hagezi/hagezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
