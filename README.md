@@ -1,5 +1,3 @@
-<p align="center"><img width="25%" alt="HaGeZi DNS Blocklists" src="https://github.com/user-attachments/assets/1fb8b23c-2c45-43e2-8266-84c897ac5b3b" /></p>
-
 <div align="center">
   
   [![Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF.svg?style=for-the-badge&logo=Proton-Mail&logoColor=white)](mailto:hagezi@protonmail.com)
